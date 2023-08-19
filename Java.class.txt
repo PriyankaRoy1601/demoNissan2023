@@ -1,1 +1,1 @@
-System.line.output("Hello in Java");
+System.line.println("Hello in Java");
